@@ -43,8 +43,8 @@ public class Solucion_1_1 {
         System.out.println("Porcentaje de reprobados: " + (reprobados * 100.0 / numEstudiantes) + "%");
     }  
 }
-
-/*
+//AUTOR= LADY ROBALINO
+/* EVIDENCIA DE RESULTADO:
 Nombre del estudiante: Estudiante1
 Cédula del estudiante: 11500276331
 Materia: Matemáticas
