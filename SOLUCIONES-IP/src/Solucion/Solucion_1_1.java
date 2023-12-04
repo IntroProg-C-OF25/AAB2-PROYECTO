@@ -35,7 +35,7 @@ public class Solucion_1_1 {
                 System.out.println("El estudiante debe rendir un examen de recuperación.");
                 reprobados++;
             }
-            System.out.println();
+            System.out.println("--------------------------------------");
         }
 
         System.out.println("ESTADÍSTICAS FINALES:");
