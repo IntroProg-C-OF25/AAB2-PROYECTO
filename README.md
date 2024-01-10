@@ -1,6 +1,6 @@
 # AAB2-PROYECTO
 
-Estimado estudiantes, en las propuestas para el proyecto son las siguientes: ![Propuestas de proyectos](https://github.com/IntroProg-C-OF24/AAB1-PROYECTO/blob/main/Micelania%20ejercicios%20Proyecto.pdf).
+Estimado estudiantes, en las propuestas para el proyecto son las siguientes: ![Propuestas de proyectos](https://github.com/IntroProg-C-OF24/AAB2-PROYECTO/blob/main/2B%20-%20Micelania%20ejercicios%20Proyecto.pdf).
 
 De ellas Ud. deberá elegir para el desarrollo únicamente 1. Se socializará su elección con el objetivo de que máximo 2 grupos tengan el mismo tema. 
 
