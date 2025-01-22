@@ -6,7 +6,7 @@ De ellas Ud. deberá elegir para el desarrollo únicamente 1. Se socializará su
 
 Para esta asignatura de __*INTRODUCCÍON A LA PROGRAMACIÓN*__, los entregables para el proyecto son: 
 
-* __Documentación__: Con información de la carrera, asignatura, docente, estudiante, tema del proyecto, pero sobre todo con los resultados de las faces de análisis _(datos de entrada, procesos y salida)_ y diseño de la solución modular.   
+* __DOCUMENTACIÓN__: Con información de la carrera, asignatura, docente, estudiante, tema del proyecto, pero sobre todo con los resultados de las faces de análisis _(datos de entrada, procesos y salida)_ y diseño de la solución modular.   
 * __CODIFICACIÓN 1__: En el lenguaje de programación de alto nivel Java. En una única clase y en único proyecto, el cual debe ser colocado en este repositorio.
 * __CODIFICACIÓN 2__: En el lenguaje de programación Python.
 * __EVIDENCIA DE RESUTLADOS__: Copiar los resutlados generados y pegarlos como comentario al final de cada solución .java. 
